@@ -9,7 +9,7 @@
 ### *GIT*, __GITHUB__
 ### I prefer ~~python~~ JAVA.
 
-[this is style link](https://www.google.com)
+[for java first download jdk(Java Development Kit] (https://www.oracle.com/in/java/technologies/downloads/)
 
 URLs and URLs in angle brackets will automatically get turned into links. 
 http://www.example.com or <http://www.example.com> and sometimes 
@@ -17,7 +17,7 @@ example.com (but not on Github, for example).
 
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![picactivity](https://user-images.githubusercontent.com/84926335/232994603-cc52531a-780c-45d8-bc0e-7a8b2ff0166a.jpg)
+![picactivity](https://images.idgesg.net/images/article/2019/05/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.jpg?auto=webp&quality=85,70)
 
 ```javascript
 var s = "JavaScript syntax highlighting";
@@ -66,6 +66,4 @@ hyphens
 
 [![IMAGE ALT TEXT HERE] http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://youtu.be/83PPkZzwh2w" /></a>

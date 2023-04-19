@@ -17,6 +17,7 @@ example.com (but not on Github, for example).
 
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![picactivity](https://user-images.githubusercontent.com/84926335/232994603-cc52531a-780c-45d8-bc0e-7a8b2ff0166a.jpg)
 
 ```javascript
 var s = "JavaScript syntax highlighting";
@@ -61,3 +62,10 @@ Three or more
 hyphens
 
 ***
+
+
+[![IMAGE ALT TEXT HERE] http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
